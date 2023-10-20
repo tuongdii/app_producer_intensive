@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="ui">
+    <file>sidebar/crunchyroll.png</file>
+    <file>sidebar/Crunchyroll_Logo.png</file>
+    <file>sidebar/crunchyroll_text.png</file>
+    <file>sidebar/crunchyroll_vertical.png</file>
+    <file>sidebar/film-solid.svg</file>
+    <file>sidebar/house-solid.svg</file>
+    <file>sidebar/ranking-star-solid.svg</file>
+    <file>sidebar/right-from-bracket-solid.svg</file>
+    <file>sidebar/tv-solid.svg</file>
+  </qresource>
+</RCC>

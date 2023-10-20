@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Sousou no Frieren",
+        "release_date": "Sep 2023",
+        "image": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+        "rating": 9
+    },
+    {
+        "id": 2,
+        "title": "Jujutsu no Kaisen 2nd Season",
+        "release_date": "Jul 2023",
+        "image": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+        "rating": 7
+    },
+    {
+        "id": 3,
+        "title": "One Piece",
+        "release_date": "Oct 1999",
+        "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+        "rating": 8
+    },
+    {
+        "id": 4,
+        "title": "Mononoke Hime",
+        "release_date": "Jul 1997",
+        "image": "https://cdn.myanimelist.net/images/anime/7/75919.jpg",
+        "rating": 10
+    }
+]
